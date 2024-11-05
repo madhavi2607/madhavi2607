@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @madhavi2607
-- 👀 I’m interested in CYBER SECURITY AND DIGITAL FORENSICS
-- 🌱 I’m currently learning BCA
+- 👋 Hi, I’m @madhavi
+- 👀 I’m interested in CYBER SECURITY
+- 🌱 I have done MSc in Cybersecurity
+- Currently working as L1 NOC/SOC support.
 
 
 <!---
